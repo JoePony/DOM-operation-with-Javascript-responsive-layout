@@ -1,0 +1,1 @@
+requirejs.config({baseUrl:"./static/js",path:{index:"index"}}),requirejs(["jquery-1.11.3.min","index"],function(){});
